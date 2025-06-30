@@ -11,7 +11,7 @@
   Segments:  Sales By Item Type, Total Items Sold Per Year based on Outlet Establishment Year
   Distribution: Outlet Presence Based on Location
   Summary: Comprehensive Analysis of Outlet type
-  Interactive Filters: Outlet Size, Item Fat Content, Rating
+  Interactive Filters: Outlet Size, Outlet Establishment Year, Rating, Item Fat Content
 
 # 2. 📈 Sales Analysis
   Examines sales trends through various parameters to uncover patterns in sales distribution
