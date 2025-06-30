@@ -1,8 +1,8 @@
 # Blinkit_Performance_Analytics
 🎯 Project Objective: To develop a comprehensive Blinkit Performance Dashboard that analyzes the company’s business operations using a real-world dataset, providing actionable insights across key dimensions- Outlet Performance, Sales Trends, and Product Metrics.
-# 📊 Dashboards Included
+## 📊 Dashboards Included
 
-# 1. 📍 Outlet Analysis
+## 1. 📍 Outlet Analysis
   Analyzes outlet distribution and evaluates sales performance across different outlet types.
 
   Highlights:
@@ -13,7 +13,7 @@
   Summary: Comprehensive Analysis of Outlet type
   Interactive Filters: Outlet Size, Outlet Establishment Year, Rating, Item Fat Content
 
-# 2. 📈 Sales Analysis
+## 2. 📈 Sales Analysis
   Examines sales trends through various parameters to uncover patterns in sales distribution
 
   Highlights:
@@ -23,7 +23,7 @@
   Trends: Annual Total Sales
   Interactive Filters: Outlet Size, Item Fat Content, Rating
 
-# 3. 📦 Product Analysis
+## 3. 📦 Product Analysis
   Analyzes item requirements by examining key product features to identify demand patterns.
 
   Highlights:
